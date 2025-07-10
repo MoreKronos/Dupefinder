@@ -52,4 +52,4 @@ If you have questions or requests, contact me on Discord:
 ## Notes
 
 - The script uses Windows Shell COM objects to read MP3 metadata.
-- Only intended for use with Youtube-Toolkit folder structure.
+- Only intended for use with **[Youtube-Toolkit](https://github.com/MoreKronos/Youtube-Toolkit)** folder structure.
