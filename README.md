@@ -26,7 +26,7 @@ This PowerShell script automates organizing your MP3 files by moving them from a
 
 ## License
 
-Copyright (c) 2025 **[MoreKronos](https://github.com/MoreKronos/)**
+Copyright (c) 2026 **[MoreKronos](https://github.com/MoreKronos/)**
 
 All rights reserved.
 
