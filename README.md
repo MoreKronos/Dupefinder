@@ -4,7 +4,7 @@
 
 This PowerShell script automates organizing your MP3 files by moving them from a downloads folder to a music_files folder, removing duplicate tracks based on title metadata, and renaming numeric filenames to a consistent 5-digit zero-padded format.
 
-**Note:** This project works only in conjunction with the **[Youtube-Toolkit project](https://github.com/MoreKronos/Youtube-Toolkit)**, as it relies on the folder structure and files created by that toolkit.
+**Note:** This project works only in conjunction with the **[Youtube-Toolbox project](https://github.com/MoreKronos/Youtube-Toolkit)**, as it relies on the folder structure and files created by that toolkit.
 
 ## Prerequisites
 
